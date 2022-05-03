@@ -45,22 +45,28 @@ html {
 .rating-div {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  gap: 1.5rem;
-  margin-bottom: 2rem;
+  gap: 1.2rem;
+  margin-bottom: 2.5rem;
 }
 
 .rating-number {
   color: hsl(217, 12%, 63%);
   border-radius: 50%;
-  padding: 2rem;
+  padding: 1.8rem;
   background-color: hsl(213, 8%, 21%);
   font-size: 1.5rem;
   text-align: center;
+  font-weight: 700;
+  line-height: normal;
 }
 
 .rating-number:hover {
   cursor: pointer;
   background-color: hsl(25, 97%, 53%);
+}
+
+.rating-selected {
+  background-color: hsl(217, 12%, 63%);
 }
 
 .btn-submit {
@@ -70,12 +76,18 @@ html {
   cursor: pointer;
   color: #ffffff;
   font-size: 1.5em;
-  padding: 1.4rem 7.6rem;
+  padding: 1rem;
   text-decoration: none;
   text-transform: uppercase;
   text-align: center;
-  letter-spacing: 2px;
+  letter-spacing: 1.5px;
   width: 100%;
+  line-height: normal;
+}
+
+.btn-submit:hover {
+  background-color: #ffffff;
+  color: hsl(25, 97%, 53%);
 }
 
 .attribution {
