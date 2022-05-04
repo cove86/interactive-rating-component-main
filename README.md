@@ -13,7 +13,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -33,9 +32,11 @@ Users should be able to:
 <img src="/images/screenshot-1.JPG" width="400" height="400">
 
 ##Desktop Rating Selected
+
 <img src="/images/screenshot-2.JPG" width="400" height="400">
 
 ##Thank You
+
 <img src="/images/screenshot-3.JPG" width="400" height="400">
 
 ### Links
@@ -62,4 +63,4 @@ I completed this quicker than expected and managed to complete the layout and ja
 ## Author
 
 - linkedIn - https://www.linkedin.com/in/ashley-cove-06419b124/
-- Twitter - https://www.twitter.com/@cove86
+- Twitter - https://www.twitter.com/cove86
