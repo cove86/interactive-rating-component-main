@@ -28,9 +28,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/screenshot-1.JPGscreenshot.jpg)
-![](images/screenshot-2.JPGscreenshot.jpg)
-![](images/screenshot-3.JPGscreenshot.jpg)
+##Desktop Rating Highlighted
+
+<img src="/images/screenshot-1.JPGscreenshot.jpg" width="400" height="400">
+
+##Desktop Rating Selected
+<img src="/images/screenshot-2.JPGscreenshot.jpg" width="400" height="400">
+
+##Thank You
+<img src="/images/screenshot-3.JPGscreenshot.jpg" width="400" height="400">
 
 ### Links
 
