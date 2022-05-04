@@ -30,13 +30,13 @@ Users should be able to:
 
 ##Desktop Rating Highlighted
 
-<img src="/images/screenshot-1.JPGscreenshot.jpg" width="400" height="400">
+<img src="/images/screenshot-1.JPG" width="400" height="400">
 
 ##Desktop Rating Selected
-<img src="/images/screenshot-2.JPGscreenshot.jpg" width="400" height="400">
+<img src="/images/screenshot-2.JPG" width="400" height="400">
 
 ##Thank You
-<img src="/images/screenshot-3.JPGscreenshot.jpg" width="400" height="400">
+<img src="/images/screenshot-3.JPG" width="400" height="400">
 
 ### Links
 
