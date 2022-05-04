@@ -28,13 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot-1.JPGscreenshot.jpg)
-![](./images/screenshot-2.JPGscreenshot.jpg)
-![](./images/screenshot-3.JPGscreenshot.jpg)
+![](images/screenshot-1.JPGscreenshot.jpg)
+![](images/screenshot-2.JPGscreenshot.jpg)
+![](images/screenshot-3.JPGscreenshot.jpg)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://ash-interactive-rating.netlify.app/)
+- Live Site URL: [https://ash-interactive-rating.netlify.app/]
 
 ## My process
 
