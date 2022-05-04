@@ -9,7 +9,7 @@ html {
 }
 
 .container {
-  width: 144rem;
+  /* width: 144rem; */
   margin: 15rem auto;
 }
 
@@ -19,7 +19,7 @@ html {
   padding: 3rem;
   border-radius: 2rem;
   background-color: hsl(213, 19%, 18%);
-  font-family: "Overpass", sans-serif;
+  font-family: 'Overpass', sans-serif;
   line-height: 1.5;
 }
 
@@ -124,4 +124,10 @@ html {
 }
 .hide {
   display: none;
+}
+
+@media only screen and (max-width: 40rem) {
+  html {
+    font-size: 50%;
+  }
 }

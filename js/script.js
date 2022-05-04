@@ -5,7 +5,7 @@ const ratingBtn = document.querySelectorAll('.rating-number');
 const submitBtn = document.querySelector('.btn-submit');
 const ratingCard = document.getElementById('rating-card');
 const thankYouCard = document.getElementById('thankyou-card');
-let ratingText = document.querySelector('.rating-text').innerHTML;
+let ratingText = document.querySelector('.rating-text');
 
 let rating;
 
@@ -24,6 +24,6 @@ ratingBtnDiv.addEventListener('click', e => {
 submitBtn.addEventListener('click', e => {
   console.log(rating);
   ratingCard.classList.add('hide');
-  ratingText = `You selected ${rating} out of 5`;
   thankYouCard.classList.remove('hide');
+  ratingText.innerHTML = `You selected ${rating} out of 5`;
 });
