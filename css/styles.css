@@ -10,10 +10,10 @@ html {
 
 .container {
   width: 144rem;
-  margin: 0 auto;
+  margin: 15rem auto;
 }
 
-.rating-card {
+.card {
   margin: 0 auto;
   width: 40rem;
   padding: 3rem;
@@ -67,6 +67,7 @@ html {
 
 .rating-selected {
   background-color: hsl(217, 12%, 63%);
+  color: #ffffff;
 }
 
 .btn-submit {
@@ -98,6 +99,29 @@ html {
   color: hsl(228, 45%, 44%);
 }
 
+.thankyou-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.thankyou-svg {
+  margin-bottom: 3rem;
+}
+
+.rating-text {
+  font-size: 1.5rem;
+  color: hsl(25, 97%, 53%);
+  background-color: hsl(213, 8%, 21%);
+  padding: 1rem 2rem 1rem 2rem;
+  line-height: normal;
+  border-radius: 2rem;
+  margin-bottom: 3rem;
+}
+
+.rating-description {
+  text-align: center;
+}
 .hide {
   display: none;
 }
